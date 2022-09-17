@@ -1,0 +1,191 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+<title>Resources</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>789d9996-1d5e-4284-a641-5ef087cdbd68</md:uuid>
+</metadata>
+<content>
+<section id="id9568422">
+<title>Resources</title>
+<para id="id9366722">By any standard, investment in an American
+cyberinfrastructure is meager, as is U.S. research funding in
+general.
+<footnote id="idp668064">According to Vinton Cerf and Harris N.
+Miller in the Wall Street Journal (27 July 2005), “our total
+national spending on R&amp;D is 2.7% of our GDP, and now ranks only
+sixth in the world. The federal government's share of total
+national R&amp;D spending has fallen from 66% in 1964 to 25%” in
+2005.</footnote>In 2003 the Atkins report recommended annual
+expenditures of $1 billion to create a cyberinfrastructure for
+science and engineering; in 2005 funding specifically designated to
+shared cyberinfrastructure at the National Science Foundation (NSF)
+was about $123 million. On a per capita basis, Australia, Canada,
+and the United Kingdom and other European countries have made
+proportionally much greater investments in developing a broadly
+accessible cyberinfrastructure than has the United States. The
+countries of the European Union arguably are far ahead of the
+United States, especially in the humanities and social sciences
+areas, given their recent investments in digital cultural heritage.
+<footnote id="idm446624">See, e.g., these recent publications, which
+describe serious investment in humanities and social sciences
+cyberinfrastructure in the United Kingdom and the European Union:
+British Academy, E-resources for Research in the Humanities and
+Social Sciences—A British Academy Policy Review (2005) 
+<link url="http://www.britac.ac.uk/reports/eresources/">
+http://www.britac.ac.uk/reports/eresources/</link>(20 May
+2005).British Academy, Future Directions for Social Science: A
+Response from the British Academy (2004) 
+<link url="http://www.britac.ac.uk/news/reports/esrc-0904/esrc0904-html.htm">
+http://www.britac.ac.uk/news/reports/esrc-0904/esrc0904-html.htm</link>(20
+May 2005).Guntram Geser and John Pereira, eds. (2004a). Resource
+Discovery Technologies for the Heritage Sector (Vol. 6): European
+Commission.Guntram Geser and John Pereira, eds. (2004b). Virtual
+Communities and Collaboration in the Heritage Sector (Vol. 5):
+European Commission.J. M. Jose (2004). Personalization techniques
+in information retrieval. Resource Discovery Technologies for the
+Heritage Secto, ed. Guntram Geser and John Pereira, European
+Commission. DigiCULT Thematic Issue 6.S. Ross, M. Donnelly, and M.
+Dobreva (2004). Emerging Technologies for the Cultural and
+Scientific Heritage Sector (Vol. 2): European Commission.S. Ross,
+M. Donnelly, M. Dobreva, D. Abbott, A. McHugh, and A. Rusbridge
+(2005). Core Technologies for the Cultural and Scientific Heritage
+Sector (Vol. 3): European Commission.British Academy, 'That Full
+Complement of Riches': The Contribution of the Arts, Humanities,
+and Social Sciences to the Nation's Wealth (2004) 
+<link url="http://www.britac.ac.uk/news/reports/contribution/pdf/contribution.pdf">
+http://www.britac.ac.uk/news/reports/contribution/pdf/contribution.pdf</link>(23
+Aug. 2005).</footnote></para>
+<para id="id9551467">One example of the kind of resource we need to
+develop here in the United States is the UK Data Archive, a “centre
+of expertise in data acquisition, preservation, dissemination and
+promotion and . . . curator of the largest collection of digital
+data in the social sciences and humanities in the UK.” The Data
+Archive is funded by the Economic and Social Research Council
+(ESRC), the Joint Information Systems Committee (JISC) of the
+Higher Education Funding Councils, and the University of Essex.
+<footnote id="idm2505776">UK Data Archive, 
+<link url="http://www.data-archive.ac.uk/about/about.asp">
+http://www.data-archive.ac.uk/about/about.asp</link>.</footnote></para>
+<para id="id3049982">In the United States, the only similar
+institution is the Inter-University Consortium for Political and
+Social Research (ICPSR), established in 1962. There is no direct
+equivalent of the Arts and Humanities Data Service (AHDS),
+mentioned in the UK Data Archive description and founded in 1996 as
+a “UK national service aiding the discovery, creation and
+preservation of digital resources in and for research, teaching and
+learning in the arts and humanities.”
+<footnote id="idm322816">Arts and Humanities Data Service 
+<link url="http://www.ahds.ac.uk/">
+http://www.ahds.ac.uk/</link>.</footnote>The AHDS is jointly funded by
+JISC and the Arts and Humanities Research Council (AHRC), whose
+closest U.S. equivalent would be a combination of the National
+Endowment for the Humanities (NEH) and the National Endowment for
+the Arts (NEA). The AHRC has recently committed several years of
+new funding to the Methods Network to provide a “national forum for
+the exchange and dissemination of expertise in the use of
+Information and Communication Technologies (ICT) for arts and
+humanities research.”
+<footnote id="idm166320">Methods Network 
+<link url="http://www.methodsnetwork.ac.uk/">
+http://www.methodsnetwork.ac.uk/</link>.</footnote></para>
+<para id="id6849042">The lack of a similar coordinated effort in
+the United States is troubling, and even in the national context,
+support for humanities and social science research is dwarfed by
+other governmental spending commitments. Health research accounts
+for more than half of federal spending on basic (nondefense)
+research: the National Institutes of Health’s budget request in
+fiscal year 2006 was about $28.5 billion. The National Science
+Foundation budget, which provides some funding for the social
+sciences and almost none for the humanities, was $5.6 billion. Of
+that amount, about 10%, or $509 million, went to the Directorate
+for Computer and Information Science and Engineering (CISE), which
+until recently had the primary responsibility for
+cyberinfrastructure. (The CISE budget also funds NSF’s portfolio of
+basic research in the computer and information sciences and related
+areas.) The NSF now has an Office of Cyberinfrastructure, which
+will guide the agency's investments in cyberinfrastructure for
+science and engineering, funded at $123 million. Federal funding
+for humanities-related projects is tiny by comparison. The
+fiscal-year 2006 budget requests of the most important agencies—the
+National Endowment for the Humanities ($138 million) and the
+Institute of Museum and Library Services ($247 million)—combined
+equal less than the budget for CISE, which is itself only one-tenth
+of the NSF budget. And the ability of the NEA, NEH, and IMLS to
+fund cyberinfrastructure directly is diminished because much of the
+money in these agency budgets goes to states through block grants
+over which the agencies have little control.</para>
+<para id="id3214987">Private foundations are important sources of
+support in the humanities and the social sciences, but they cannot
+make up for the low level of federal funding. For example, no
+single private foundation in the United States—with the exception
+of the Bill &amp; Melinda Gates Foundation, which primarily funds
+health initiatives—has annual funding that equals the budget of
+CISE.
+<footnote id="idp3968896">The Foundation Center, “Foundation Growth
+and Giving Estimates” (2005) 
+<link url="http://fdncenter.org/research/trends_analysis/pdf/fgge05.pdf">
+http://fdncenter.org/research/trends_analysis/pdf/fgge05.pdf</link>.</footnote>Among
+the large private foundations, few are focused on humanities and
+social sciences. Nevertheless, philanthropic sources have so far
+played a disproportionately large role in funding the
+experimentation in digital projects in the humanities. Foundations
+such as the Andrew W. Mellon Foundation, the Getty Trust, the
+Carnegie Corporation, and the William and Flora Hewlett, David and
+Lucile Packard, and Alfred P. Sloan foundations have made strategic
+investments in building resources or seeding projects. There have
+also been remarkable instances of individual philanthropy from
+committed individuals, such as Brewster Kahle (the Internet Archive
+<footnote id="idp485248">
+<link url="http://www.archive.org/">
+http://www.archive.org/</link>.</footnote>), Rick Prelinger (Archive
+Films
+<footnote id="idm2558368">
+<link url="http://www.archive.org/details/prelinger">
+http://www.archive.org/details/prelinger</link>.</footnote>), and David
+Rumsey (the David Rumsey Map Collection
+<footnote id="idm10067760">
+<link url="http://www.davidrumsey.com/">
+http://www.davidrumsey.com/</link>.</footnote>), who not only collect
+high-value resources for the humanities and social sciences but
+also make them freely available on the Web. These are the Carnegies
+of the digital age, building digital libraries just as Andrew
+Carnegie built physical ones.</para>
+<para id="id9621615">New federal funding is urgently needed for
+cyberinfrastructure in the humanities and social sciences and also
+for research and demonstration projects that explore new,
+sustainable business models for digital humanities and social
+science. Received wisdom on the limits of the market for ideas has
+been radically reoriented by the rise of networked communities,
+and, at this point, scholarly communication may well stand to lose
+more by failing to experiment than from experiments that fail.
+Universities need to connect with commercial information-technology
+innovators in order to understand these new information markets,
+experiment with business models, and think creatively about the
+value that is produced by research and teaching in the humanities
+and social sciences. In fact, corporate supporters and partners
+have played an important, often foundational, role at campus-based
+technology and media laboratories such as the Entertainment
+Technology Center at Carnegie Mellon; the School of Literature,
+Communication, and Culture at Georgia Tech; the Massachusetts
+Institute of Technology Media Lab; the Entertainment Technology
+Center at the University of Southern California; and the Institute
+for Advanced Technology in the Humanities at the University of
+Virginia. Commercial partners in these ventures may understand
+better than their academic counterparts how to communicate value to
+those who will pay for it, and academic institutions may understand
+better than their commercial counterparts how to ensure that value
+is not only circulated in the present but handed down in the
+future. There is a public interest even in privately held cultural
+materials, so it is inevitable that some difficult issues will
+arise where public and private meet; yet the creation of a robust
+cyberinfrastructure will require vigorous collaboration across this
+boundary.
+<footnote id="idm911584">See Peter B. Kaufman, “Marketing Culture in
+the Digital Age: A Report on New Business Collaborations between
+Libraries, Museums, Archives and Commercial Companies (2005) 
+<link url="http://www.intelligenttelevision.com/marketingculture.htm">
+http://www.intelligenttelevision.com/marketingculture.htm</link>.</footnote>If
+such bridges can be built and crossed, the resulting traffic will
+be good for education, good for business, and good for civic
+life.</para>
+</section>
+</content>
+</document>

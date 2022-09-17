@@ -1,0 +1,117 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+<title>Working in New Ways</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>4d021e8b-6344-4bd6-866a-b492fd1822f8</md:uuid>
+</metadata>
+<content>
+<section id="id11559863">
+<title>Working in New Ways</title>
+<para id="id4494500">In the last decade, users of the Web have
+gained unprecedented access to pre–twentieth-century cultural
+materials, but the real promise of our digital collections has yet
+to be realized. There is still a long way to go before we achieve
+even basic access to primary sources that will allow scholars and
+public researchers to work in new ways. A survey of special
+collections that was conducted by the Association of Research
+Libraries in 1998 found that the uncataloged backlog of manuscript
+collections represented one-third of repository holdings. A similar
+survey conducted in 2003–2004 showed that 34% of archives and
+manuscript repositories have at least half of their holdings
+unprocessed; 60% have at least one-third of their collections
+unprocessed.
+<footnote id="idp2537440">Mark A. Greene and Dennis Meissner, “More
+Product, Less Process: Revamping Traditional Archival Processing,”
+American Archivist 68 (Fall/Winter 2005):
+208-63.</footnote>“Unprocessed” and “uncataloged” mean that no online
+catalog entries exist, nor are there in-house catalogs, indexes, or
+finding aids.</para>
+<para id="id11557619">Users of these massive aggregations of text,
+image, video, sound, and metadata will want tools that support and
+enable discovery, visualization, and analysis of patterns; tools
+that facilitate collaboration; an infrastructure for authorship
+that supports remixing, recontextualization, and commentary—in sum,
+tools that turn access into insight and interpretation. Examples
+might include humanities text-mining (discussed more specifically
+below), as in the Nora project,
+<footnote id="idm7401696">
+<link url="http://www.noraproject.org/">
+http://www.noraproject.org/</link>.</footnote>or works of seemingly
+more traditional scholarship that rely on digital tools, such as Ed
+Ayers’s book In the Presence of Mine Enemies (Norton, 2003), which
+unfolds a tale of the daily life of ordinary people during the
+Civil War that could not have been researched and developed without
+access to the gigabytes of digitized historical sources that
+constitute the Valley of the Shadow project.
+<footnote id="idm483792">University of Virginia 
+<link url="http://valley.vcdh.virginia.edu/">
+http://valley.vcdh.virginia.edu/</link>.</footnote></para>
+<para id="id10431443">If the promise of cyberinfrastructure is to
+be realized, humanists and social scientists must take the lead in
+directing the design and development of the tools their disciplines
+will use. We will require support systems for that development:
+research centers that are national repositories of expertise,
+postdoctoral programs that emphasize digital scholarship, and
+graduate programs that train the rising generation in the methods
+of digital research and scholarship.</para>
+<para id="id4212380">What will those tools, customized for the
+humanities and social sciences, do? A general answer to that
+question was offered to the Commission in its first public hearing
+by Michael Jensen, electronic publisher for the National Academies
+Press: “Human interpretation is the heart of the humanities. . . .
+devising computer-assisted ways for humans to interpret more
+effectively vast arrays of the human enterprise is the major
+challenge.” In practice, this means that tools for use with digital
+libraries will need to enable the user to find patterns of
+significance (heuristics) in very large collections of information,
+across many different types of data, and then interpret those
+patterns (hermeneutics). In the humanities and social sciences,
+heuristics and hermeneutics are core activities.</para>
+<para id="id5763140">In the world at large, the activity of
+discovering and interpreting patterns in large collections of
+digital information is called data-mining (or sometimes, when it is
+confined to text, text-mining), but data-mining is only one
+investigative method, or class of methods, that might become more
+useful in the humanities and the social sciences as we bring
+greater computing power to bear on larger and larger collections
+and more complex research questions, often with outcomes in areas
+other than that for which the data was originally collected. Beyond
+data-mining, there are many other ways of animating and exploring
+the integrated cultural record. They include simulations that
+reverse-engineer historical events to understand what caused them
+and how things might have turned out differently; game-play that
+allows us to tinker with the creation and reception of works of
+art;
+<footnote id="idp4050496">Applied Research in Patacriticism, IVANHOE
+(2005) 
+<link url="http://www.patacriticism.org/ivanhoe/">
+http://www.patacriticism.org/ivanhoe/</link>.</footnote>role-playing in
+social situations with autonomous agents, or using virtual worlds
+to understand behavior in the real world.
+<footnote id="idm404592">See, e.g., Joshua Epstein, Generative Social
+Science: Studies in Agent-Based Computational Modeling (Princeton:
+Princeton University Press, 2006), and Edward Castronova, Synthetic
+Worlds: The Business and Culture of Online Games (Chicago:
+University of Chicago Press, 2005).</footnote></para>
+<para id="id10641513">We can design the software tools, computer
+networks, digital libraries, archives, and museums that are needed
+to assemble, preserve, and examine the human record in all of its
+“variety, complexity, incomprehensibility, and intractability,” as
+Henry Brady, Professor of Political Science and Public Policy and
+Director of The Survey Research Center at the University of
+California, Berkeley, described it during his August 2004 testimony
+to the Commission.
+<footnote id="idm6690848">
+<link url="http://www.acls.org/cyberinfrastructure/cyber_meeting_notes_august.htm#brady_summary">
+http://www.acls.org/cyberinfrastructure/cyber_meeting_notes_august.htm#brady_summary</link>.</footnote>But
+many barriers stand between us and a future in which we might
+realize something approaching the unification of the cultural
+record. Some of these barriers are technical, but the more
+formidable ones are human and societal—whether legal,
+organizational, disciplinary, political, or economic. Humanists and
+social scientists, being experts in human culture and social
+problems, should be well trained to address these challenges, but
+they will need to begin with their own organizations, disciplines,
+politics, and reward systems. The next chapter addresses these
+challenges.</para>
+</section>
+</content>
+</document>

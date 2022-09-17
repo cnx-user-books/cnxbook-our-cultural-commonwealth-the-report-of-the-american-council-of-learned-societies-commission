@@ -1,0 +1,66 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+<title>Ephemerality</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>58c71d39-cf2a-45cc-b2ab-07a2c307ad69</md:uuid>
+</metadata>
+<content>
+<para id="id6395348">The Commission has identified six key
+challenges that must be engaged if we intend to build a robust
+cyberinfrastructure:</para>
+<list list-type="bulleted" id="id6287548">
+<item>The ephemeral nature of digital data</item>
+<item>The nature of humanities and social science data</item>
+<item>Copyright laws</item>
+<item>The conservative culture of scholarship</item>
+<item>Uncertainty about the future mechanisms, forms, and economics
+of scholarly publishing and scholarly communication more
+generally</item>
+<item>Insufficient resources, will, and leadership to build
+cyberinfrastructure for the humanities and social sciences</item>
+</list>
+<section id="id4220147">
+<title>Ephemerality</title>
+<para id="id6409919">The study of human cultures and creativity is
+founded on access to the records of the past. Preserving and
+ensuring the authenticity of the artifacts and records of the past
+is one of the most valued functions of libraries, archives, and
+museums—and yet we have only begun to learn how to do these things
+with the political, economic, social, and cultural record of our
+increasingly digital civilization.
+<footnote id="idp2796208">For an overview of some of the preservation
+issues and literature, see Daniel J. Cohen and Roy Rosenzweig,
+“Preserving Digital History,” in Digital History: A Guide to
+Gathering, Preserving, and Presenting the Past on the Web
+(Philadelphia: University of Pennsylvania Press, 2005) 
+<link url="http://chnm.gmu.edu/digitalhistory/preserving/">
+http://chnm.gmu.edu/digitalhistory/preserving/</link>.</footnote>Digital
+data are notoriously fragile, short-lived, and easy to manipulate
+without leaving obvious evidence of fraud. Therefore, such content
+is best preserved in trustworthy repositories, without which there
+will be critical breaks in the chain of evidence. Although sites
+such as YouTube, Flickr, Facebook, and MySpace
+<footnote id="idm10534720">YouTube 
+<link url="http://www.youtube.com/">http://www.youtube.com/</link>;
+Flickr 
+<link url="http://www.flickr.com/">http://www.flickr.com/</link>;
+Facebook 
+<link url="http://www.facebook.com/">
+http://www.facebook.com/</link>; MySpace 
+<link url="http://www.myspace.com/">
+http://www.myspace.com/</link>.</footnote>have become popular for
+hosting digital collections, they are not repositories that ensure
+long-term access to the content. The rapid turnover in digital
+hardware and software often leaves digital data marooned on media
+or in formats that can no longer be accessed and that are highly
+susceptible to deterioration and loss. Preservation requires the
+scrupulous management of data from the moment it enters a
+repository through the steps of validation, storage, migration, and
+delivery to parties that have been authenticated and authorized to
+receive it. These are complex technical procedures dependent on
+standards and protocols that work quickly and reliably.
+Preservation was once an obscure backroom operation of interest
+chiefly to conservators and archivists: it is now widely recognized
+as one of the most important elements of a functional and enduring
+cyberinfrastructure.</para>
+</section>
+</content>
+</document>

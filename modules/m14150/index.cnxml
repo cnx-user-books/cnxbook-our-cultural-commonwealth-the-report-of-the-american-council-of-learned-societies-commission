@@ -1,0 +1,301 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+<title>Executive Summary</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>05660118-aec2-4938-bffd-5b0db9c6dc02</md:uuid>
+</metadata>
+<content>
+<section id="id4856780">
+<title>Executive Summary</title>
+<para id="id4835077">The emergence of the Internet has transformed
+the practice of the humanities and social sciences—more slowly than
+some may have hoped, but more profoundly than others may have
+expected. Digital cultural heritage resources are a fundamental
+dataset for the humanities: these resources, combined with computer
+networks and software tools, now shape the way that scholars
+discover and make sense of the human record, while also shaping the
+way their findings are communicated to students, colleagues, and
+the general public. Even greater transformations are on the
+horizon, as digitized cultural heritage comes into its own. But we
+will not see anything approaching complete digitization of the
+record of human culture, removal of legal and technical barriers to
+access, or revolutionary change in the academic reward system
+unless the individuals, institutions, enterprises, organizations,
+and agencies who are this generation’s stewards of that record make
+it their business to ensure that these things happen.</para>
+<para id="id4758478">The organized use of networks and computation
+for the practice of science and engineering was the subject of a
+2003 report to the National Science Foundation (NSF),
+Revolutionizing Science and Engineering through
+Cyberinfrastructure.
+<footnote id="idm620016">National Science Foundation, Revolutionizing
+Science and Engineering through Cyberinfrastructure: Report of the
+National Science Foundation Blue-Ribbon Advisory Panel on
+Cyberinfrastructure (January 2003) 
+<link url="http://www.nsf.gov/cise/sci/reports/atkins.pdf">
+http://www.nsf.gov/cise/sci/reports/atkins.pdf</link>.</footnote>In
+both the NSF report and this one, the term cyberinfrastructure is
+meant to denote the layer of information, expertise, standards,
+policies, tools, and services that are shared broadly across
+communities of inquiry but developed for specific scholarly
+purposes:cyberinfrastructure is something more specific than the
+network itself, but it is something more general than a tool or a
+resource developed for a particular project, a range of projects,
+or, even more broadly, for a particular discipline. So, for
+example, digital history collections and the collaborative
+environments in which to explore and analyze them from multiple
+disciplinary perspectives might be considered cyberinfrastructure,
+whereas fiber-optic cables and storage area networks or basic
+communication protocols would fall below the line for
+cyberinfrastructure.</para>
+<para id="id4345003"/>
+<para id="id4870484">Recognizing that a revolution similar to the
+transformation of science and engineering addressed in the NSF
+report is inevitable for the humanities and the social sciences and
+that these disciplines have essential and distinct contributions to
+make in designing, building, and operating cyberinfrastructure, the
+American Council of Learned Societies (ACLS) in 2004 appointed a
+Commission on Cyberinfrastructure for the Humanities and Social
+Sciences. This report reflects the reach of its sponsoring
+organization, the ACLS, by focusing on the needs of the humanities
+and nonnormative social sciences, that is, social sciences that are
+interpretive.</para>
+<para id="id4164541">The ACLS Commission was charged with three
+tasks:</para>
+<list list-type="enumerated" id="id4831253">
+<item>To describe and analyze the current state of humanities and
+social science cyberinfrastructure</item>
+<item>To articulate the requirements and potential contributions of
+the humanities and social sciences in developing a
+cyberinfrastructure for information, teaching, and research</item>
+<item>To recommend areas of emphasis and coordination for the
+various agencies and institutions, public and private, that
+contribute to the development of this infrastructure</item>
+</list>
+<para id="id4126397">Commission members include humanities
+scholars, social scientists, administrators, and entrepreneurs from
+universities and organizations public and private, large and small.
+All were selected for their experience with digital technologies.
+The Commission’s deliberations were informed by the testimony of
+scholars, librarians, museum directors, social scientists,
+representatives of government and private funding agencies, and
+many other people, gathered in a series of public meetings held in
+Washington, DC; New York City; Chicago; Berkeley; Los Angeles; and
+Baltimore during 2004; by national and international reports by
+other groups on related missions; by advisors to the Commission,
+selected for particularly relevant expertise; and by responses to
+the draft report, which was made available for public comment from
+November 2005 through January 2006.</para>
+<para id="id4755393">The Commission heard from those who wanted
+more advanced software applications, greater bandwidth, and more
+access to expertise in information technology. We also heard from
+many who spoke about the potential for cyberinfrastructure to
+enhance teaching, facilitate research collaboration, and increase
+public access to (and fair use of) the record of human cultures
+across time and space. As a result, this report addresses the
+particular needs and contributions of those directly engaged in
+teaching, research, and cultural work; but it also places those
+needs and contributions in a larger context, namely, the public
+good that these activities, collectively, produce.</para>
+<para id="id4803332">As more personal, social, and professional
+time is spent online, it will become increasingly important to have
+an online environment that cultivates the richness of human
+experience, the diversity of human languages and cultures, and the
+full range of human creativity. Such an environment will best
+emerge if its design can benefit from the strengths of the
+humanities and social sciences: clarity of expression, the ability
+to uncover meaning even in scattered or garbled information, and
+centuries of experience in organizing knowledge. These strengths
+are especially important as the volume of digital resources grows,
+as complexity increases, and as we struggle to preserve and make
+sense of billions of sources of information.</para>
+<para id="id4800997">Many who work in the humanities and social
+sciences have come to recognize that knowledge in these disciplines
+is on the edge of some fundamental changes, and that it would be
+better to approach these changes with specific goals in mind. This
+report suggests what some of those goals might be. The Introduction
+answers a few fundamental questions: What is cyberinfrastructure?
+What do we mean when we refer to the humanities and social
+sciences? And what are the distinctive needs and contributions of
+these disciplines in cyberinfrastructure?</para>
+<para id="id4755986">As the title of this report is meant to
+indicate, the online world is a new cultural commonwealth in which
+knowledge, learning, and discovery can flourish. Our aim,
+therefore, is to show how best to achieve this cultural
+commonwealth for the betterment of all.</para>
+<para id="id4799185">Chapter 1 makes the case for the
+transformative potential of an improved cyberinfrastructure with
+respect to the preservation and availability of our cultural
+heritage. A coordinated effort to build cyberinfrastructure for the
+humanities and social sciences, the Commission argues, will benefit
+the public and the specialist alike by providing access to the
+breadth and depth of the cultural record.</para>
+<para id="id4833819">Chapter 2 explores the constraints that must
+be overcome in creating such a cyberinfrastructure—insufficient
+training, outdated policies, unsatisfactory tools, incomplete
+resources, and inadequate access. These constraints are not
+primarily technological but, instead, cultural, economic, legal,
+and institutional. They include:</para>
+<para id="id4802199">●the loss, fragility, and inaccessibility of
+the cultural record;</para>
+<para id="id4136055">●the complexity of the cultural record;</para>
+<para id="id4469401">●intellectual property restrictions on the use
+of the cultural record;</para>
+<para id="id4830451">●lack of incentives to experiment with
+cyberinfrastructure in the humanities and social sciences;</para>
+<para id="id4869009">●uncertainty about the future mechanisms,
+forms, and economics of scholarly publishing and scholarly
+communication more generally;</para>
+<para id="id4829228">●insufficient resources, will, and leadership
+to build</para>
+<para id="id4055558">cyberinfrastructure for the humanities and
+social sciences.</para>
+<para id="id4862701">Chapter 3 provides a framework for action. It
+first articulates five goals for an effective cyberinfrastructure,
+namely, that it should</para>
+<list list-type="enumerated" id="id4864412">
+<item>be accessible as a public good;</item>
+<item>be sustainable;</item>
+<item>provide interoperability;</item>
+<item>facilitate collaboration;</item>
+<item>support experimentation.</item>
+</list>
+<para id="id4754085">In chapter 3, the Commission also recommends
+the following measures necessary to achieve these goals (and to
+meet the challenges described in chapter 2):</para>
+<section id="id4869431">
+<title>1. Invest in cyberinfrastructure for the humanities and
+social sciences, as a matter of strategic priority.</title>
+<para id="id4865326">Addressed to: Universities; federal and
+private funding agencies</para>
+<para id="id4796965">Implementation: Determine the amount and
+efficacy of funding that now goes to support developing
+cyberinfrastructure for humanities and social sciences from all
+sources; through annual meetings and ongoing consultation,
+coordinate the goals this funding aims to achieve; and aim to
+increase both funding and coordination over the next five years,
+including commercial investments that are articulated with the
+educational community’s agenda.</para>
+</section>
+<section id="id4721415">
+<title>2. Develop public and institutional policies that foster
+openness and access.</title>
+<para id="id4107307">Addressed to: University presidents, boards of
+trustees, provosts, and counsels; university presses; funding
+agencies; libraries; scholarly societies; Congress</para>
+<para id="id4866226">Implementation: The Association of American
+Universities, in collaboration with other organizations such as the
+National Humanities Alliance, the Scholarly Publishing and Research
+Coalition, and the National Academy of Arts and Sciences, should
+take a leadership role in coordinating the engagement of the
+humanities and social sciences with issues of information
+policy.</para>
+</section>
+<section id="id4859200">
+<title>3. Promote cooperation between the public and private
+sectors.</title>
+<para id="id4208512">Addressed to: Universities; federal and
+private funding agencies; Internet-oriented companies</para>
+<para id="id4468176">Implementation: A private foundation, a
+federal funding agency, an Internet business, and one or more
+university partners should cosponsor recurring annual summits to
+explore new models for commercial/nonprofit partnerships and to
+discuss opportunities for the focused creation of digital resources
+with high educational value and high public impact.</para>
+</section>
+<section id="id4793262">
+<title>4. Cultivate leadership in support of cyberinfrastructure
+from within the humanities and social sciences.</title>
+<para id="id4809573">Addressed to: Senior scholars; scholarly
+societies; university administrators; senior research librarians
+and research library organizations; academic publishing
+organizations; federal funding agencies; private foundations</para>
+<para id="id4864098">Implementation: Increase federal and
+foundation funding to one or more scholarly organizations in the
+area of humanities and social science computing so that they can
+work with member organizations of the American Council of Learned
+Societies (ACLS) and others to establish priorities for
+cyberinfrastructure development, raise awareness of research and
+partnership opportunities among scholars, and coordinate the
+evolution of research products from basic to applied.</para>
+</section>
+<section id="id4417257">
+<title>5. Encourage digital scholarship.</title>
+<para id="id3295853">Addressed to: Universities; research
+libraries; the National Endowment for the Humanities (NEH); the
+National Endowment for the Arts (NEA); the Institute of Museum and
+Library Services (IMLS); the National Academies; the National
+Archives; major private foundations; major scholarly societies;
+individual leaders in the humanities and social sciences</para>
+<para id="id3342723">Implementation: Federal funding agencies and
+private foundations should establish programs that address
+workforce issues in digital humanities and social sciences, from
+short-term workshops to postdoctoral and research fellowships to
+the cultivation of appropriately trained computer professionals.
+The ACLS should lead its member organizations in developing uniform
+policies with respect to digital scholarship in tenure and
+promotion.</para>
+</section>
+<section id="id4830246">
+<title>6. Establish national centers to support scholarship that
+contributes to and exploits cyberinfrastructure.</title>
+<para id="id4788955">Addressed to: Universities; Congress; state
+legislatures; public funding agencies; private foundations</para>
+<para id="id4092333">Implementation: Universities should develop
+national and international fellowships at existing humanities and
+social science computing centers, and develop new centers with such
+programs, with a combination of university, federal, and private
+funding.</para>
+</section>
+<section id="id4862390">
+<title>7. Develop and maintain open standards and robust
+tools.</title>
+<para id="id4826592">Addressed to: Funding agencies, public and
+private; scholars; librarians; curators; publishers;
+technologists</para>
+<para id="id3568449">Implementation: University consortia such as
+the Committee on Institutional Cooperation should license the
+SourceForge software and make it available to open-source
+developers in academic institutions. The National Endowment for the
+Humanities (NEH), National Archives and Records Administration
+(NARA), and the Institute of Museum and Library Services (IMLS)
+should support the development, maintenance, and coordination of
+community-based standards such as the Text Encoding Initiative,
+Encoded Archival Description, Metadata Encoding and Transmission
+Standard, and Visual Resources Data Standards. The National Science
+Foundation (NSF), the Andrew W. Mellon Foundation, the IMLS, and
+other funding agencies should support the development of tools for
+the analysis of digital content.</para>
+</section>
+<section id="id4848719">
+<title>8. Create extensive and reusable digital collections.</title>
+<para id="id4871326">Addressed to: The National Endowment for the
+Arts (NEA), the National Endowment for the Humanities (NEH), the
+Institute of Museum and Library Services (IMLS), the National
+Archives and Records Administration (NARA), and other funding
+agencies, both public and private; scholars; research libraries and
+librarians; university presses; commercial publishers</para>
+<para id="id3342734">Implementation: National centers with a focus
+on particular methods or disciplines can organize a certain amount
+of scholar-driven digitization. Library organizations and libraries
+should sponsor discipline-based focus groups to discuss priorities
+with respect to digitization. When priorities are established,
+these should be relayed to the organizers of annual meetings on
+commercial and nonprofit partnerships, and they should be
+considered in the distribution of grant funds by federal agencies
+and private foundations. Funding to support the maintenance and
+coordination of standards will improve the reusability of digital
+collections. The NEA, NEH, and IMLS should work together to promote
+collaboration and skills development—through conferences,
+workshops, and/or grant programs—for the creation, management,
+preservation, and presentation of reusable digital collections,
+objects, and products.</para>
+<para id="id4861139">Finally, in light of these requirements and in
+order to realize the promise of cyberinfrastructure for research
+and education, the Commission calls for specific investments—not
+just of money but also of leadership—from scholars and scholarly
+societies; librarians, archivists, and curators; university
+provosts and university presses; the commercial sector; government;
+and private foundations.</para>
+</section>
+</section>
+</content>
+</document>
